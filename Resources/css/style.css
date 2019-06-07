@@ -1,0 +1,178 @@
+h1 {
+	text-align: center;
+	color: orange;
+	font-family: 'Righteous';
+}
+
+.tagline{
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Righteous';
+	color: orange;
+}
+
+
+.menu1{
+	text-align: right;
+	font-size: 60px;
+	font-family: 'Fredoka One';
+	
+}
+
+.gif{ 
+  background:  url(https://media.giphy.com/media/lXiRmybisRnz7bHqg/giphy.gif) no-repeat center center fixed; 
+  background-size: cover;
+}
+
+a:link {
+  color: #ffdc00; 
+  text-decoration: none;
+}
+
+a:visited {
+  color: #ffdc00;
+  text-decoration: none;
+}
+
+a:hover {
+  color: teal;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  text-decoration: underline;
+}
+
+a:link {
+  color: #ffdc00;  
+  text-decoration: none;
+}
+
+h1 {
+	text-align: center;
+	color: orange;
+	font-family: 'Righteous';
+}
+
+
+table{
+	 margin-left:auto; 
+    margin-right:auto;
+}
+
+.tier{
+	font-size: 50px;
+	font-family: 'Permanent Marker';
+	text-align: center;
+}
+
+.stier{
+	background: #ff7f7e;
+}
+
+.atier{
+	background: #ffbf7f;
+}
+
+.btier{
+	background: #feff7f;
+}
+
+.ctier{
+	background: #7eff7e;
+}
+
+.dtier{
+	background: #7ec0fd;
+}
+
+.ftier{
+	background: #fe80fe;
+}
+
+.blackbody{
+	background: #1a1a1a;
+}
+
+td{
+	border: 1000px #000000;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+
+header {
+background: rgb(2,0,36);
+background: linear-gradient(180deg, rgba(2,0,36,1) 33%, rgba(0,212,255,1) 100%);
+}
+
+.menu{
+	text-align: right;
+	font-size: 60px;
+	font-family: 'Fredoka One';
+	background: rgb(2,0,36);
+background: linear-gradient(180deg, rgba(2,0,36,1) 33%, rgba(0,212,255,1) 100%);
+	
+}
+
+.reasons{
+	background-color:#dbd5ab;
+	text-align: center;
+}
+
+.history{
+	font-size: 20px;
+	font-family: 'Fredoka One';
+}
+.history1{
+	background: #aaedb8;
+}
+
+ul{
+	font-size: 20px;
+	font-family: 'Fredoka One';
+	margin-left: 30%;
+	margin-right: auto;
+}
+
+.blockinfo{
+	background: #b5caff;
+}
+
+.X{ font-size: 100px;
+}
+
+.bruh{
+	font-size: 50px;
+}
+
+.aboutsalmon{
+	background-color: #f5a09d;
+}
+
+h2 {
+	text-align: center;
+	color: #006614;
+	font-family: 'Righteous';
+}
+
+.gametitle{
+	color: #006614;
+	font-family: 'Righteous';
+}
+
+.gameinfo{
+	font-size: 40px;
+	font-family: 'Fredoka One';
+	color: black;
+}
+
+nav a{
+	text-align: center;
+	border: 2px solid black;
+	background-color: #f95759;
+	border-radius: 20px;
+	margin-right: 15px;
+	margin-left: 5px;
+}
